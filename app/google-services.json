@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20985047237",
+    "project_id": "sirentalmotor",
+    "storage_bucket": "sirentalmotor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20985047237:android:a87d25d60e1395a60ce8ac",
+        "android_client_info": {
+          "package_name": "com.example.sirentalmotor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20985047237-91st1j9dsg5730ec607tsqe3su7gi0o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFmzsriSSJLI7334fxq49epnhkGjEosWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20985047237-91st1j9dsg5730ec607tsqe3su7gi0o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
